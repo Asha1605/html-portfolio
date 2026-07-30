@@ -165,11 +165,6 @@ Global supply chain and pricing platform.
 ---
 
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=html-portfolio&theme=tokyonight"/>
-
-</p>
 
 ---
 
