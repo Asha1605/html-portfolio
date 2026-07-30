@@ -164,10 +164,6 @@ Global supply chain and pricing platform.
 
 ---
 
-
-
----
-
 # 🌱 Currently Learning
 
 - AI Engineering
